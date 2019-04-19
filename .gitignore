@@ -1,0 +1,6 @@
+.idea/
+target/
+savepoint/
+result/
+recursiveDir/
+*.iml

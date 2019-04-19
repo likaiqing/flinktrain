@@ -2,107 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1169091c-8cae-4f02-ad68-72dc74ab6f18" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/BtcUtxoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/IterationsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/JsonBeanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/KafkaProducerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/RedisSinkWithWaterMarker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/streaming/EventTimeWatermarks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/imooc/flink/scala/streaming/StreamingWCScalaApp2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/flink/scala/streaming/StreamingWCScalaApp2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/streaming/StreamingWCJavaApp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/streaming/StreamingWCJavaApp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/java/transformation/JavaDataSetTranseformationApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anon$2$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anon$2$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anon$2$$anonfun$createSerializer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/BatchWCScalaApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/counter/CounterApp$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/counter/CounterApp$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/counter/CounterApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/counter/CounterApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/counter/CounterApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/counter/CounterApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/distributeCache/DistributeCacheApp$$anon$1$$anonfun$open$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/distributeCache/DistributeCacheApp$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/distributeCache/DistributeCacheApp$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/distributeCache/DistributeCacheApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/distributeCache/DistributeCacheApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/distributeCache/DistributeCacheApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/distributeCache/DistributeCacheApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/sink/DataSetSinkApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/sink/DataSetSinkApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/sink/DataSetSinkApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/sink/DataSetSinkApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$$anon$2$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$$anon$2$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$$anon$2$$anonfun$createSerializer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$MyCaseClass$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$MyCaseClass$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$MyCaseClass$4$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp$MyCaseClass$4$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/source/DataSetDataSourceApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anon$2$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anon$2$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anon$2$$anonfun$createSerializer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$$anonfun$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$WC$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp$WC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/streaming/StreamingWCScalaApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DBUtils$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DBUtils$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DBUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DBUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$10$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$10$$anon$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$10$$anonfun$createSerializer$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$11$$anon$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$11$$anon$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$11$$anonfun$createSerializer$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$12$$anon$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$12$$anon$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$12$$anonfun$createSerializer$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$13$$anon$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$13$$anon$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$13$$anonfun$createSerializer$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$14$$anon$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$14$$anon$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$14$$anonfun$createSerializer$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$8$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$8$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$8$$anonfun$createSerializer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$9$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$9$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$9$$anonfun$createSerializer$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anon$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$distinctFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$filterFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$filterFunction$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$flatMapFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$joinFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$joinFunction$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$joinFunction$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$joinFunction$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$mapFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$mapFunction$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$mapFunction$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$mapFunction$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$mapPartitionFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$$anonfun$mapPartitionFunction$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/flink/scala/transformation/DataSetTransformationApp.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -117,14 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/java/RedisSinkWithWaterMarker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="107" column="48" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
+            <state relative-caret-position="128">
+              <caret line="105" column="48" lean-forward="true" selection-start-line="105" selection-start-column="48" selection-end-line="105" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -237,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/BtcUtxo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/KafkaProducerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/flink/java/RedisSinkWithWaterMarker.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -286,11 +197,6 @@
             <path>
               <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="flinktrain" type="462c0819:PsiDirectoryNode" />
-              <item name="savepoint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinktrain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -313,268 +219,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinktrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinktrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="transformation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.bahir:flink-connector-redis_2.11:1.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.bahir:flink-connector-redis_2.11:1.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-connector-redis_2.11-1.1-20171205.110058-1.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.bahir:flink-connector-redis_2.11:1.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-connector-redis_2.11-1.1-20171205.110058-1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.bahir:flink-connector-redis_2.11:1.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-connector-redis_2.11-1.1-20171205.110058-1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.bahir:flink-connector-redis_2.11:1.1-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-connector-redis_2.11-1.1-20171205.110058-1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-core:1.7.2" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-core:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-core-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-core:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-core-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-core:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-core-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-core:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-core-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-core:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-core-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-runtime_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-runtime_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-runtime_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-runtime_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-runtime_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-runtime_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-runtime_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-runtime_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-runtime_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-runtime_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-runtime_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
-              <item name="filesystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-streaming-java_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-streaming-java_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-streaming-java_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-streaming-java_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="datastream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-streaming-java_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-streaming-java_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-streaming-java_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-              <item name="timestamps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinktrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.flink:flink-streaming-java_2.12:1.7.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="flink-streaming-java_2.12-1.7.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="watermark" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -777,12 +421,12 @@
       <workItem from="1554892636660" duration="495000" />
       <workItem from="1554893164046" duration="598000" />
       <workItem from="1555294267124" duration="1198000" />
-      <workItem from="1555307922686" duration="52305000" />
+      <workItem from="1555307922686" duration="53266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103500000" />
+    <option name="totallyTimeSpent" value="104461000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -797,7 +441,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1502146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1502146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -806,7 +450,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49927953" visible="true" weight="0.30955413" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927953" weight="0.30955413" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.477707" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -814,7 +458,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32898173" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="SBT Console" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.47515923" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.47515923" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50072044" side_tool="true" weight="0.3694517" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4985591" weight="0.32866243" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
@@ -910,13 +554,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/java/streaming/StreamingWCJavaApp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.12/1.7.2/flink-streaming-java_2.12-1.7.2-sources.jar!/org/apache/flink/streaming/api/functions/source/SourceFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -1314,11 +951,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/flink/java/RedisSinkWithWaterMarker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="107" column="48" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
+        <state relative-caret-position="128">
+          <caret line="105" column="48" lean-forward="true" selection-start-line="105" selection-start-column="48" selection-end-line="105" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
