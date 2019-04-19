@@ -17,6 +17,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="flinktrain" />
+        <module name="flink-train" />
       </profile>
     </annotationProcessing>
   </component>

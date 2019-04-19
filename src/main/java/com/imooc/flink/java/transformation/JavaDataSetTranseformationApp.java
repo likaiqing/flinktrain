@@ -1,6 +1,5 @@
 package com.imooc.flink.java.transformation;
 
-import com.imooc.flink.scala.transformation.DBUtils;
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.api.common.functions.JoinFunction;
 import org.apache.flink.api.common.functions.MapFunction;
@@ -169,9 +168,9 @@ public class JavaDataSetTranseformationApp {
         data.mapPartition(new MapPartitionFunction<String, String>() {
             @Override
             public void mapPartition(Iterable<String> values, Collector<String> out) throws Exception {
-                String connection = DBUtils.getConnection();
-                System.out.println("connect:[" + connection + "]");
-                DBUtils.returnConnection();
+//                String connection = DBUtils.getConnection();
+                System.out.println("connect:[" + "" + "]");
+//                DBUtils.returnConnection();
             }
         }).print();
     }
